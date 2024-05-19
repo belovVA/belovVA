@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
   
-<a href='https://t.me/elmiraculous' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="mailto:gilfanova-03@inbox.ru" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href='https://t.me/v_belov_v' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:bva.0337@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <br>
  <img src="https://komarev.com/ghpvc/?username=Elmira7&style=flat-square&color=blue" alt=""/>
 
@@ -14,7 +14,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://myresume.ru/resume/Ul5WZYbGrhA/" target="_blank">Elmira</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer💻</h3>
+<h3 align="center">Backend GO developer💻</h3>
 
 
 
@@ -22,8 +22,7 @@
   ## :woman_technologist: About me
  
 ### :man_student: Education:
-- I'm styding in third course of software engineering <a href='https://kpfu.ru/itis' target="_blank">ITIS Kazan Federal University :mortar_board:</a>
-- I have completed a Frontend course from  <a href="https://technokratos.com/agona?ysclid=lixqn4g3im930901433">Technocracy</a>
+- I stydy in third course of software engineering <a href='https://kai.ru/' target="_blank">KAI University IKTZI:mortar_board:</a>
 - I study at <a href="https://21-school.ru/">school 21</a>
 <!-- ### BIO :notebook:   -->
 
@@ -41,24 +40,12 @@
 
 
 ### About my projects in Frontend :clipboard:
--<a href="https://github.com/elmiraculous/rentroom">RentRoom</a> service for interaction between tenants and landlords (in the process)
 
--<a href="https://github.com/elmiraculous/react-project">EcoRus</a> educational project on React (in the process)
-
--<a href="https://github.com/elmiraculous/Frontend">SaaSto</a> landing
 
 
 
 ##
 ### About my projects in C
--<a href="https://github.com/elmiraculous/Ping_pong">Ping pong</a> 
-implementation of the game of ping pong.
 
--<a href="https://github.com/elmiraculous/cat_and_grep">Cat and grep</a> 
-development of Bash utilities for working with text: cat, grep.
-
--<a href="https://github.com/elmiraculous/math">Math</a>
-implementation of your own version of the math.h library.(teamwork)
 
  ### Support:
-<p><a href="https://www.buymeacoffee.com/Elmira7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Elmira7" /></a></p><br><br>
