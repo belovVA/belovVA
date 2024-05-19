@@ -4,7 +4,7 @@
 <a href='https://t.me/v_belov_v' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:bva.0337@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <br>
- <img src="https://komarev.com/ghpvc/?username=Elmira7&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=Vladimir7&style=flat-square&color=blue" alt=""/>
 
 </div>
 
