@@ -19,7 +19,7 @@
   ## :man_technologist: About me
  
 ### :man_student: Education:
-- I study on 4rd course of software engineering <a href='https://kai.ru/' target="_blank">KAI University IKTZI:mortar_board:</a>
+- I study on 4rd course of software engineering <a href='https://kai.ru/' target="_blank">KAI University IKTZI :mortar_board: </a>
 - I study at <a href="https://21-school.ru/">School 21</a>
 <!-- ### BIO :notebook:   -->
 
