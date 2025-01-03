@@ -3,8 +3,6 @@
   
 <a href='https://t.me/v_belov_v' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:bva.0337@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <br>
- <img src="https://komarev.com/ghpvc/?username=Vladimir7&style=flat-square&color=blue" alt=""/>
 
 </div>
 
@@ -13,13 +11,12 @@
 
 
 <h1 align="center">Hi there, I'm <a href="https://myresume.ru/resume/Ul5WZYbGrhA/" target="_blank">Vladimir</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend GO developer💻</h3>
 
 
 
 
-  ## :woman_technologist: About me
+  ## :man_technologist: About me
  
 ### :man_student: Education:
 - I stydy in third course of software engineering <a href='https://kai.ru/' target="_blank">KAI University IKTZI:mortar_board:</a>
