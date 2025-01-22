@@ -43,8 +43,21 @@
 
 
 
-##
-### About my projects in C
+## Projects in School 21
+### C
+- [SimpleBashUtils](https://github.com/belovVA/s21-simplebash). Release cat and grep utils
+- [Strings](https://github.com/belovVA/s21-string_plus). Release some functions from string.h + sprintf + sscanf
+- [Decimal](https://github.com/belovVA/s21-decimal). Release decimal type and operations with decimal
+- [Matrix](https://github.com/belovVA/s21-matrix). Release matrix structure and basic operations
+- [Math](https://github.com/belovVA/s21-math). Release some functions from math.h
+- [BrickGame_v1.0. Tetris](https://github.com/belovVA/s21-brickgame_v1.0). Release game Tetris with console interface
+
+### C++
+- [Matrix+](https://github.com/belovVA/s21-matrix_plus). Release matrix class and basic operations with OOP paradigm
+- [Containers](https://github.com/belovVA/s21-containers). Release basic structures like list, queue etc.
+- [BrickGame_v2.0. Snake](https://github.com/belovVA/s21-brickgame_v2.0). Release game Snake with desktop interface(QT) and cosnole interface
+
+### SQL Bootcamp
+- [SQL-Bootcamp](https://github.com/belovVA/s21-sql_bootcamp). Bootcamp with PostgreSQL
 
 
- ### Support:
