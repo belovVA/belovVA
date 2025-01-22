@@ -1,18 +1,12 @@
-<div id="header" align="center">
-  
-  
+<h1 align="center">I'm Vladimir</a> 
+<h3 align="center">Backend GO developer💻</h3>
+
+<div align="center">
+
 <a href='https://t.me/v_belov_v' target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:bva.0337@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
-
-
-
-
-
-<h1 align="center">Hi there, I'm <a href="https://myresume.ru/resume/Ul5WZYbGrhA/" target="_blank">Vladimir</a> 
-<h3 align="center">Backend GO developer💻</h3>
-
 
 
 
