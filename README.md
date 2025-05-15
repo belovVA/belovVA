@@ -15,7 +15,7 @@
 ### Education:
 - I study on 4rd course of software engineering <a href='https://kai.ru/' target="_blank">KAI University IKTZI :mortar_board: </a>
 - I study at <a href="https://21-school.ru/">School 21</a>
-<!-- ### BIO :notebook:   -->
+
 
 ##
 
@@ -36,7 +36,9 @@
 ### About my projects in Backend :clipboard:
 
 
-
+## Go
+[pvz-service](https://github.com/belovVA/pvz-service). Go, REST API, Postgres, Docker
+[lost-item-service](https://github.com/belovVA/lost-items-service). Go, REST API, Postgres, Redis, Docker
 
 ## Projects in School 21
 ### C
@@ -54,5 +56,6 @@
 
 ### SQL Bootcamp
 - [SQL-Bootcamp](https://github.com/belovVA/s21-sql_bootcamp). Bootcamp with PostgreSQL
+
 
 
