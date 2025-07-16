@@ -37,7 +37,7 @@
 
 
 ## Go
-[pvz-service](https://github.com/belovVA/pvz-service). Go, REST API, Postgres, Docker
+[pvz-service](https://github.com/belovVA/pvz-service). Go, REST API, Postgres, Docker \
 [lost-item-service](https://github.com/belovVA/lost-items-service). Go, REST API, Postgres, Redis, Docker
 
 ## Projects in School 21
